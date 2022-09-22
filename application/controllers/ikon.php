@@ -1,5 +1,5 @@
 <?php
-class inianu extends CI_Controller 
+class ikon extends CI_Controller 
 {
     public function index()
     {
