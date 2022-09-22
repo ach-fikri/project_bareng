@@ -14,6 +14,7 @@ class Landing_page extends CI_Controller{
   }
 
   public function kirim_pesan(){
+    
     $this->_rules();
     if($this->form_validation->run() == FALSE){
       $this->index();
