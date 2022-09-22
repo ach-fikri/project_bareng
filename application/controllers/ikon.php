@@ -5,4 +5,9 @@ class inianu extends CI_Controller
     {
         echo "<h1>INI Kontol</h1>";
     }
-}
+
+        public function under()
+        {
+            # code...
+        }
+    }
